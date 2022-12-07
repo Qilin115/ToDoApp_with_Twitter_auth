@@ -5,7 +5,7 @@ nodejsのexpressライブラリで作成したToDoアプリにTwitter認証を�
 
 ## 起動準備
 
-passport-twitter.jsの8,9,10行目の変数であるTwitterのAPIキーは以下から取得&設定
+config/passport-twitter.jsの8,9,10行目の変数であるTwitterのAPIキーは以下から取得&設定
 
 https://developer.twitter.com/en
 
