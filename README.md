@@ -11,10 +11,15 @@ https://developer.twitter.com/en
 
 APIキー、APIキーシークレットを使う
 
+![スクリーンショット 2022-12-07 16 43 03](https://user-images.githubusercontent.com/103504603/206120142-6812ca2b-afd6-4792-9936-321c43a9fc51.png)
+
+
 アプリの設定でCallback URIはhttp://127.0.0.1:3000/oauth/callback
 
 Website URLはhttps://example.com
 を追加
+
+
 
 
 
